@@ -1,0 +1,2 @@
+<p><strong>Custom 404 Error Page Sample Text ... \includes\languages\german\html_includes\responsive_classic\define_page_not_found.php</strong></p>
+<p>Wir haben diese Seite noch nicht aktualisiert. Bitte benachrichtigungen Sie uns - haben Sie vielen Dank!</p>

@@ -1,0 +1,2 @@
+<p>Diese Datei befindet sich in include/language/german/html_includes/classic/define_shopping_cart.php</p>
+<p>Bearbeiten Sie diesen Text (den, den Sie gerade lesen) in Admin> Extras> Seiteneditor definieren, um hier Ihre persönliche Warenkorbnachricht zu schreiben.</p>
